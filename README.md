@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Alessandro ⭐
-Para entrar em contato comigo, deixo a baixo links para isso.
+Para entrar em contato comigo, deixo abaixo links para isso.
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:alessandro14736@outlook.com?subjet=(Opcional)=(Opcional).)
 
