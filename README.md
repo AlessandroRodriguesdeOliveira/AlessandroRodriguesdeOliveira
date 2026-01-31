@@ -3,7 +3,7 @@ Para entrar em contato comigo, deixo abaixo links para isso.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alessandro14736@gmail.com?subjet=(Opcional)=(Opcional).)
 
-## Linguaguens de Programação e Frameworks de Desenvolvimento
+## Linguaguens de Programação e Frameworks
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
